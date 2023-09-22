@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className='main'>
       <h1>Ripple</h1>
-      <h3>Tours and Events</h3>
+      <h3>Events and Tours</h3>
     </div>
   )
 }
